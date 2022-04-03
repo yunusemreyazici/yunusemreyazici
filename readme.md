@@ -1,13 +1,13 @@
 ### Hi there, I'm Emre! 👋   <img src="./emre.jpg" width = "300" height = "300" align = "center"> 
 
-### I'm a software engineer and i development mobile applications.   
+### I'm a software engineer and i development c projects and websites.   
 
 
 
 
 --- 
 - 👩🏻‍💻 I’m currently working on my own projects
-- 🌱 I’m currently learning Flutter, FinTech, Machine Learning, Swift. 
+- 🌱 I’m currently learning C,Flutter, Machine Learning, Swift. 
 
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/yunusemrey44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yunusemrey44-blue?style=flat&logo=linkedin"></a>
   
