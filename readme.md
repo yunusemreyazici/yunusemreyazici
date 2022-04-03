@@ -27,11 +27,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreyazici&langs_count=10&layout=compact" alt="yunusemreyazici :: Top Langs" /></p>
 
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
 ![My(yunusemreyazici) GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=cobalt)
 
 <!-- https://github.com/kadriyemacit/views this is a clone of the hits -->
@@ -40,8 +36,6 @@
 <a href="https://www.buymeacoffee.com/yunusemreyazici" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
-  
- 
     
   </tbody>
 </table>
