@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning C,Flutter, Machine Learning, Swift. 
 
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/yunusemrey44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yunusemrey44-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/inviteddie" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/download/barbie-pink/twitter-5-16.ico"></a>
+<a href="https://twitter.com/inviteddie" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/download/orange/twitter-5-64.ico"></a>
   
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
