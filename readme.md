@@ -1,317 +1,105 @@
-### Merhaba
-
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
-- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support identification, interpretation, fliter of the HTML tags;
-- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
-
-# Editor.md
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-###Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-####Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#####Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-######Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-
-##Headers (Underline)
-
-H1 Header (Underline)
-=============
-
-H2 Header (Underline)
--------------
-
-###Characters
-                
-----
-
-~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
-*Italic*      _Italic_
-**Emphasis**  __Emphasis__
-***Emphasis Italic*** ___Emphasis Italic___
-
-Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
-
-**Abbreviation(link HTML abbr tag)**
-
-The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
-
-###Blockquotes
-
-> Blockquotes
-
-Paragraphs and Line Breaks
-                    
-> "Blockquotes Blockquotes", [Link](http://localhost/)。
-
-###Links
-
-[Links](http://localhost/)
-
-[Links with title](http://localhost/ "link title")
-
-`<link>` : <https://github.com>
-
-[Reference link][id/name] 
-
-[id/name]: http://link-url/
-
-GFM a-tail link @pandao
-
-###Code Blocks (multi-language) & highlighting
-
-####Inline code
-
-`$ npm install marked`
-
-####Code Blocks (Indented style)
-
-Indented 4 spaces, like `<pre>` (Preformatted Text).
-
-    <?php
-        echo "Hello world!";
-    ?>
-    
-Code Blocks (Preformatted text):
-
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
-
-####Javascript　
-
-```javascript
-function test(){
-	console.log("Hello world!");
-}
- 
-(function(){
-    var box = function(){
-        return box.fn.init();
-    };
-
-    box.prototype = box.fn = {
-        init : function(){
-            console.log('box.init()');
-
-			return this;
-        },
-
-		add : function(str){
-			alert("add", str);
-
-			return this;
-		},
-
-		remove : function(str){
-			alert("remove", str);
-
-			return this;
-		}
-    };
-    
-    box.fn.init.prototype = box.fn;
-    
-    window.box =box;
-})();
-
-var testBox = box();
-testBox.add("jQuery").remove("jQuery");
-```
-
-####HTML code
-
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <mate charest="utf-8" />
-        <title>Hello world!</title>
-    </head>
-    <body>
-        <h1>Hello world!</h1>
-    </body>
-</html>
-```
-
-###Images
-
-Image:
-
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-
-> Follow your heart.
-
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
-
-> 图为：厦门白城沙滩 Xiamen
-
-图片加链接 (Image + Link)：
-
-[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")
-
-> 图为：李健首张专辑《似水流年》封面
-                
-----
-
-###Lists
-
-####Unordered list (-)
-
-- Item A
-- Item B
-- Item C
-     
-####Unordered list (*)
-
-* Item A
-* Item B
-* Item C
-
-####Unordered list (plus sign and nested)
-                
-+ Item A
-+ Item B
-    + Item B 1
-    + Item B 2
-    + Item B 3
-+ Item C
-    * Item C 1
-    * Item C 2
-    * Item C 3
-
-####Ordered list
-                
-1. Item A
-2. Item B
-3. Item C
-                
-----
-                    
-###Tables
-                    
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
-
-| Item      | Value |
-| --------- | -----:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-                
-----
-
-####HTML entities
-
-&copy; &  &uml; &trade; &iexcl; &pound;
-&amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot; 
-
-X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
-
-18&ordm;C  &quot;  &apos;
-
-##Escaping for Special Characters
-
-\*literal asterisks\*
-
-##Markdown extras
-
-###GFM task list
-
-- [x] GFM task list 1
-- [x] GFM task list 2
-- [ ] GFM task list 3
-    - [ ] GFM task list 3-1
-    - [ ] GFM task list 3-2
-    - [ ] GFM task list 3-3
-- [ ] GFM task list 4
-    - [ ] GFM task list 4-1
-    - [ ] GFM task list 4-2
-
-###Emoji mixed :smiley:
-
-> Blockquotes :star:
-
-####GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:
-
-- [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
-- [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
-- [x] [ ] :smiley: this is a complete item :smiley:;
-- [ ] []this is an incomplete item [test link](#) :fa-star: @pandao; 
-- [ ] [ ]this is an incomplete item :fa-star: :fa-gear:;
-    - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
-    - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
-            
-###TeX(LaTeX)
-   
-$$E=mc^2$$
-
-Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline。
-
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
-                    
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-                
-###FlowChart
-
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-###Sequence Diagram
-                    
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
-
-###End
+### Hi there, I'm Emre! 👋   <img src="./emre.jpg" width = "300" height = "300" align = "center"> 
+
+### I'm a software engineer and i development mobile applications.   
+
+
+
+
+--- 
+- 👩🏻‍💻 I’m currently working on my own projects
+- 🌱 I’m currently learning Flutter, FinTech, Machine Learning, Swift. 
+- 💃🏻 I did 2 times erasmus. 🇵🇱🇵🇹 
+
+- 📫 How to reach me:    <a href="https://www.linkedin.com/in/kadriyemacit/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kadriyemacit-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.youtube.com/c/HelloWorldhere/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@HelloWorldhere-red?style=flat&logo=youtube"></a>
+  
+- 😄 Pronouns: Software Engineer
+- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
+- 🌸 Fun Facts: Books, travel and pilates.  <img src="./images/yoga.gif" width = "400" height = "300" align = "center">
+
+---
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{KadriyeMacit}/count.svg" alt="KadriyeMacit :: Visitor's Count" /></p>
+
+
+<h4 align="center">Top langs 🔮</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadriyeMacit&langs_count=10&layout=compact" alt="KadriyeMacit :: Top Langs" /></p>
+
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KadriyeMacit&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+
+<!-- https://github.com/kadriyemacit/views this is a clone of the hits -->
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/kadriyemacit/kadriyemacit.svg" />
+  
+  
+
+<a href="https://www.buymeacoffee.com/kadriyemacit" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+  
+  
+---
+- I have a youtube channel with my friend. It's Hello World!  <a href="https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw"><img src="./images/subscribe.png" width = "300" height = "100" align = "center"> </a>
+---
+## 𝗪𝗵𝗮𝘁 we have in our Youtube channel | Hello World 🌎
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Flutter</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <span>Firebase</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=8JiPfTiVerA&list=PLRzodrm7Zy5HX4K5zQsg3Qtxnlz2U3LZC'> <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <span>Kotlin</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=8JiPfTiVerA&list=PLRzodrm7Zy5HX4K5zQsg3Qtxnlz2U3LZC'> <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <span>iOS(Swift)</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=rFb61Vt9bjY&list=PLRzodrm7Zy5GXWA4F_0XKNH_Llb98_afD'> <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=NJqJMkzO6V0&list=PLRzodrm7Zy5GyUsgqh_6J0ExeRA6UJpeJ'>  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <span>Arduino</span><br><br><br>
+        <a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=RDMkzNzZOc0&list=PLRzodrm7Zy5GAqpxYM1F-gGS9sSVIjZW_'> <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=LMBjPFWZxCU'> <img height="64px" src="https://cdn.svgporn.com/logos/git.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <span>GNU/Linux</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=vDJD82fj0Us&list=PLRzodrm7Zy5Ep7crPccj8kAlj3XHj7Kub'> <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <span>JQuery</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=aMgIxdE08qg&list=PLRzodrm7Zy5Feb24PDLXekXWDZg8gV9fm'> <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <span>Xamarin</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=tRY4u01tNUw'> <img height="64px" src="https://cdn.svgporn.com/logos/xamarin.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <span>OpenCV</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=IVys9sJDMao'> <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg"> </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
