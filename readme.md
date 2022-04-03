@@ -8,14 +8,12 @@
 --- 
 - 👩🏻‍💻 I’m currently working on my own projects
 - 🌱 I’m currently learning Flutter, FinTech, Machine Learning, Swift. 
-- 💃🏻 I did 2 times erasmus. 🇵🇱🇵🇹 
 
-- 📫 How to reach me:    <a href="https://www.linkedin.com/in/kadriyemacit/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kadriyemacit-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.youtube.com/c/HelloWorldhere/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@HelloWorldhere-red?style=flat&logo=youtube"></a>
+- 📫 How to reach me:    <a href="https://www.linkedin.com/in/yunusemrey44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yunusemrey44-blue?style=flat&logo=linkedin"></a>
   
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-- 🌸 Fun Facts: Books, travel and pilates.  <img src="./images/yoga.gif" width = "400" height = "300" align = "center">
+- 🌸 Fun Facts: Books, travel and cinema.  <img src="./images/yoga.gif" width = "400" height = "300" align = "center">
 
 ---
 
