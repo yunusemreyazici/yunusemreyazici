@@ -34,7 +34,7 @@
 
 
 <!-- https://github.com/kadriyemacit/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/kadriyemacit/yunusemreyazici.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/yunusemreyazici/yunusemreyazici.svg" />
   
   
 
