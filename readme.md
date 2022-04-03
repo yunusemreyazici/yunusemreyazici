@@ -42,6 +42,6 @@
   </a>
   
  
-    </tr>
+    
   </tbody>
 </table>
