@@ -30,9 +30,6 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 ![My(yunusemreyazici) GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=cobalt)
-
-<!-- https://github.com/yunusemreyazici/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/yunusemreyazici/yunusemreyazici.svg" />
   
 <a href="https://www.buymeacoffee.com/yunusemreyazici" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
