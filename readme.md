@@ -19,13 +19,15 @@
 ---
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yunusemreyazici}/count.svg" alt="yunusemreyazici :: Visitor's Count" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
+
 <h4 align="center">Top langs 🔮</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreyazici&layout=compact" alt="Yunusemreyazici :: Top Langs" /></p>
 
-![My(yunusemreyazici) GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=cobalt)
 <a href="https://www.buymeacoffee.com/yunusemreyazici" target="_blank">
-
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+	  
   </a>
   </tbody>
 </table>
