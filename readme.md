@@ -13,7 +13,7 @@
   
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-- 🌸 Fun Facts: Books, travel and cinema.  <img src="./images/yoga.gif" width = "400" height = "300" align = "center">
+- 🌸 Fun Facts: Books, travel and cinema.  <img src=".cinema.png" width = "400" height = "300" align = "center">
 
 ---
 
