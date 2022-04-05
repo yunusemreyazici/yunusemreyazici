@@ -1,4 +1,4 @@
-### Hi there, I'm Emre! 👋   <img src="./emre.jpg" width = "200" height = "200" align = "center"> 
+### Hi there, I'm Emre! 👋   <img src="./emre.jpg" width = "100" height = "100" align = "center"> 
 
 ### I'm a software engineer and i development c projects and websites.   
 
