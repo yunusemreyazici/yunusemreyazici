@@ -28,6 +28,6 @@
 <a href="https://www.buymeacoffee.com/yunusemreyazici" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
 	  
-  </a>
+ 
   </tbody>
 </table>
