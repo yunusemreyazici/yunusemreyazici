@@ -9,7 +9,7 @@
 - 👩🏻‍💻 I’m currently working on my own projects
 - 🌱 I’m currently learning C,Flutter, Machine Learning, Swift. 
 
-- 📫 How to reach me:    <a href="https://www.linkedin.com/in/yunusemrey44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yunusemrey44-blue?style=flat&logo=linkedin"></a>
+- 📫 How to reach me:    <a href="https://www.linkedin.com/in/yunus-emre-yazici-aa0a99ab" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yunusemreyazici-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/inviteddie" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/download/orange/twitter-5-32.ico"></a>
   
 - 😄 Pronouns: Software Engineer
