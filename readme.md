@@ -5,6 +5,6 @@ I'm student at **Tekirdağ Namık Kemal Universty**. Interested in flutter!
 
 
 [![](https://img.shields.io/twitter/follow/inviteddie?style=social)](https://www.twitter.com/inviteddie)
-[![](https://img.shields.io/github/followers/inviteddie?style=social)](https://www.github.com/yunusemreyazici)
+[![](https://img.shields.io/github/followers/yunusemreyazici?style=social)](https://www.github.com/yunusemreyazici)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yunusemreyazici)
