@@ -1,33 +1,10 @@
-### Hi there, I'm Emre! 👋   <img src="./emre.jpg" width = "200" height = "200" align = "center"> 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true">
 
-### I'm a software engineer and i development c projects and websites.   
+# Hey, I'm Yunus Emre YAZICI! 
+I'm student at **Tekirdağ Namık Kemal Universty**. Interested in flutter!
 
 
+[![](https://img.shields.io/twitter/follow/inviteddie?style=social)](https://www.twitter.com/inviteddie)
+[![](https://img.shields.io/github/followers/inviteddie?style=social)](https://www.github.com/yunusemreyazici)
 
-
---- 
-- 👩🏻‍💻 I’m currently working on my own projects
-- 🌱 I’m currently learning C,Flutter, Machine Learning, Swift. 
-
-- 📫 How to reach me:    <a href="https://www.linkedin.com/in/yunus-emre-yazici-aa0a99ab" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yunusemreyazici-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/inviteddie" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/download/orange/twitter-5-32.ico"></a>
-  
-- 😄 Pronouns: Software Engineer
-- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-- 🌸 Fun Facts: Books, travel and cinema.  <img src="./cinema.png" width = "200" height = "200" align = "center">
-
----
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yunusemreyazici}/count.svg" alt="yunusemreyazici :: Visitor's Count" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
-
-<h4 align="center">Top langs 🔮</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreyazici&layout=compact" alt="Yunusemreyazici :: Top Langs" /></p>
-
-<a href="https://www.buymeacoffee.com/yunusemreyazici" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-	  
- 
-  </tbody>
-</table>
+![Profile View Counter](https://komarev.com/ghpvc/?username=yunusemreyazici)
