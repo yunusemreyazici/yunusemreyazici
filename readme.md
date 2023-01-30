@@ -1,3 +1,5 @@
+![](https://media2.giphy.com/media/i0a1jnUf9XKXtJd1NU/giphy.gif)
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=dark">
 
 # Hey, I'm Yunus Emre YAZICI! 
