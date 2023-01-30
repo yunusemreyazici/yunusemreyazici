@@ -1,4 +1,5 @@
-![](https://media2.giphy.com/media/i0a1jnUf9XKXtJd1NU/giphy.gif)
+<img src="https://media2.giphy.com/media/i0a1jnUf9XKXtJd1NU/giphy.gif" style="max-width:50%;height: auto;" alt="Say Hello">
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yunusemreyazici&show_icons=true&theme=dark">
 
