@@ -5,6 +5,7 @@
 
 # Hey, I'm Yunus Emre YAZICI! 
 I'm student at **Tekirdağ Namık Kemal Universty**. Interested in Android Devolopment Kotlin and Flutter!
+I’m currently learning Kotlin(Android),Data Structures and Algorithms and ML
 
 
 [![](https://img.shields.io/twitter/follow/yuemyaz?style=social)](https://www.twitter.com/yuemyaz)
