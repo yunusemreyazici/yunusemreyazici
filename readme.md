@@ -8,8 +8,8 @@ I'm student at **Tekirdağ Namık Kemal Universty**. Interested in Android Devol
 I’m currently learning Kotlin(Android),Data Structures and Algorithms and ML
 
 
-[![](https://img.shields.io/twitter/follow/yuemyaz?style=social)](https://www.twitter.com/yuemyaz)
+[![](https://img.shields.io/twitter/follow/yuemyaz?style=social)](https://www.twitter.com/inviteddie)
 [![](https://img.shields.io/github/followers/yunusemreyazici?style=social)](https://www.github.com/yunusemreyazici)
-<a href="https://www.linkedin.com/in/yunus-emre-yazici-aa0a99ab" target="_blank"><img alt=" " src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yunusemreyazici" target="_blank"><img alt=" " src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yunusemreyazici)
